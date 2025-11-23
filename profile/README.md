@@ -3,9 +3,8 @@
 **openHytale** is a community-driven reverse engineering and decompilation project for the game **Hytale**.  
 Once we get our hands on the game files, we will begin analyzing, documenting, and understanding how Hytale works internally.
 
-> ⚠️ **Disclaimer:** This project is not affiliated with Hytale or Hypixel Studios.  
-> No Hytale files will be included in this repository.  
-> All research is for educational and modding purposes only.
+> ⚠️ **Disclaimer:** This project is not affiliated with Hytale or Hypixel Studios.
+> > All research is for educational and modding purposes only.
 
 ---
 
@@ -55,13 +54,6 @@ Any help with:
 - tooling  
 
 …will be appreciated.
-
----
-
-## ⚖️ Legal Notice
-
-openHytale does **not** distribute proprietary assets, binaries, or files from Hytale.  
-All analysis is performed on legitimately obtained copies under fair use for research.
 
 ---
 
